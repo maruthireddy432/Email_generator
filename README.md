@@ -57,5 +57,5 @@ graph TD;
 ---
 
 ### Contributions
-Feel free to **fork, improve, and submit PRs**. Issues and suggestions are welcome!
+Feel free to reach out. Issues and suggestions are welcome!
 
