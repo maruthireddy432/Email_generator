@@ -58,7 +58,7 @@ if not api_key:
 
 # Initialize LangChain chatbot
 llm = ChatGroq(
-    temperature=0,
+    temperature=1,
     groq_api_key=api_key,
     model_name="gemma2-9b-it"
 )
