@@ -1,0 +1,6 @@
+streamlit
+langchain-groq
+langchain-community
+langchain-core
+pymupdf
+python-docx
